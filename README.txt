@@ -9,7 +9,7 @@ Languages:
 
 Installation:
 1. npm init
-2. package name: mercari
+2. package name: playwright_test
 3. version: [Enter]
 4. description: this is automation of mercari app
 5. entry point: [Enter]
